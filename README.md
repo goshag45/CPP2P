@@ -20,4 +20,6 @@
  - static linking for portability
  - optimization flags '-02' or '-03'
 
-_good luck_
+
+[Qt for GUI](https://www.qt.io/product/qt6/qml-book/ch02-start-install) \
+[Qt for GUI (g4g)](https://www.geeksforgeeks.org/cpp-gui-programming/)
